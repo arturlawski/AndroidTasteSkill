@@ -1,0 +1,12 @@
+interface:
+  display_name: Android UI/UX Taste
+  short_description: Projektuj dopracowane, natywne interfejsy Android
+  default_prompt: Use $design-android-ui to design and implement a polished Android
+    UI for this app.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
